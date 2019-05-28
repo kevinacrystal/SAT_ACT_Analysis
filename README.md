@@ -10,13 +10,13 @@ The project will examine trends in SAT and ACT participation rates, from 2017 to
 Additional research will be conducted on state policies that might influence these rates.
 
 ### Contents:
-- [2017 Data Import & Cleaning](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/2017%20Data%20Import%20and%20Cleaning.ipynb)
-- [2018 Data Import and Cleaning](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/2018%20Data%20Import%20and%20Cleaning.ipynb)
-- [Exploratory Data Analysis](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Descriptive%20and%20Inferential%20Statistics.ipynb)
-- [Data Visualization](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Data%20Visualization.ipynb)
-- [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
-- [Outside Research](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
-- [Conclusions and Recommendations](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
+- [2017 Data Import and Cleaning](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/2017%20Data%20Import%20and%20Cleaning.ipynb)
+- [2018 Data Import and Cleaning](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/2018%20Data%20Import%20and%20Cleaning.ipynb)
+- [Exploratory Data Analysis](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/Exploratory%20Data%20Analysis.ipynb)
+- [Data Visualization](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/Data%20Visualization.ipynb)
+- [Descriptive and Inferential Statistics](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/Descriptive%20and%20Inferential%20Statistics.ipynb)
+- [Outside Research](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
+- [Conclusions and Recommendations](https://github.com/kevinacrystal/SAT_ACT_EDA/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
 
 ## Data Dictionary
 |Feature|Type|Dataset|Description|
@@ -52,5 +52,3 @@ http://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-b
 http://www.chicagotribune.com/news/ct-illinois-chooses-sat-met-20160211-story.html  
 https://www.cde.state.co.us/assessment/coloradosat  
 https://www.usnews.com/news/best-states/rhode-island/articles/2018-10-25/sat-participation-increases-scores-decline-in-ri
-
-# SAT_ACT_EDA
