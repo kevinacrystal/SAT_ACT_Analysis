@@ -6,17 +6,17 @@ This project aims to help executives with the College Board improve SAT particip
 
 ## Executive Summary
 ### Methodology:
-The project will examine trends in SAT and ACT participation rates, from 2017 to 2018, in order to identify states that demonstrate interesting trends in their participation rates.
+The project will examine trends in SAT and ACT participation rates during 2017 to 2018, in order to identify states the College Board might target to increase SAT participation.
 Additional research will be conducted on state policies that might influence these rates.
 
 ### Contents:
-- [2017 Data Import & Cleaning](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/2017%20Data%20Import%20and%20Cleaning.ipynb)
-- [2018 Data Import and Cleaning](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/2018%20Data%20Import%20and%20Cleaning.ipynb)
-- [Exploratory Data Analysis](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Descriptive%20and%20Inferential%20Statistics.ipynb)
-- [Data Visualization](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Data%20Visualization.ipynb)
-- [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
-- [Outside Research](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
-- [Conclusions and Recommendations](https://git.generalassemb.ly/kevincrystal/DSI-labs-and-projects/blob/master/projects/project_1/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
+- [01. 2017 Data Import & Cleaning](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/2017%20Data%20Import%20and%20Cleaning.ipynb)
+- [02. 2018 Data Import and Cleaning](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/2018%20Data%20Import%20and%20Cleaning.ipynb)
+- [03. Exploratory Data Analysis](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Exploratory%20Data%20Analysis.ipynb)
+- [04. Data Visualization](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Data%20Visualization.ipynb)
+- [05. Descriptive and Inferential Statistics](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Descriptive%20and%20Inferential%20Statistics.ipynb)
+- [06. Outside Research](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
+- [07. Conclusions and Recommendations](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
 
 ## Data Dictionary
 |Feature|Type|Dataset|Description|
@@ -40,9 +40,9 @@ Additional research will be conducted on state policies that might influence the
 |**2018_sat_total**|int|SAT|The 2018 average SAT Total score for the state|
 
 ## Conclusions and Recommendations
-Based on my exploration of the data, my key takeaway is that the largest increases in SAT participation rates are due to the exam being mandated by the state; thus my recommendation is that the College Board focus on getting states to add the SAT as a graduation requirement for high school students.
+Based on exploration of the data and outside research, the largest increases in SAT participation rates are due to the exam being mandated by the state; the College Board should focus on getting states to add the SAT as a graduation requirement for high school students.
 
-Oregon had 2018 participation rates below 50% for both the SAT and the SAT, and could be a good state to target for state-mandated testing.
+Oregon had 2018 participation rates below 50% for both the SAT and the ACT, and could be a good state to target for state-mandated testing.
 
 ## Sources
 https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/  
