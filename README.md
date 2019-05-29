@@ -10,7 +10,7 @@ The project will examine trends in SAT and ACT participation rates during 2017 t
 Additional research will be conducted on state policies that might influence these rates.
 
 ### Contents:
-- [01. 2017 Data Import & Cleaning](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/2017%20Data%20Import%20and%20Cleaning.ipynb)
+- [01. 2017 Data Import and Cleaning](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/2017%20Data%20Import%20and%20Cleaning.ipynb)
 - [02. 2018 Data Import and Cleaning](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/2018%20Data%20Import%20and%20Cleaning.ipynb)
 - [03. Exploratory Data Analysis](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Exploratory%20Data%20Analysis.ipynb)
 - [04. Data Visualization](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Data%20Visualization.ipynb)
