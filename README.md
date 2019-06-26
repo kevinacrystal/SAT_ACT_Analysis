@@ -14,9 +14,8 @@ Additional research will be conducted on state policies that might influence the
 - [02. 2018 Data Import and Cleaning](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/2018%20Data%20Import%20and%20Cleaning.ipynb)
 - [03. Exploratory Data Analysis](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Exploratory%20Data%20Analysis.ipynb)
 - [04. Data Visualization](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Data%20Visualization.ipynb)
-- [05. Descriptive and Inferential Statistics](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Descriptive%20and%20Inferential%20Statistics.ipynb)
-- [06. Outside Research](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
-- [07. Conclusions and Recommendations](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
+- [05. Outside Research](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
+- [06. Conclusions and Recommendations](https://github.com/kevinacrystal/SAT_ACT_Analysis/blob/master/code/Outside%20Research%2C%20Conclusion%2C%20Recommendations.ipynb)
 
 ## Data Dictionary
 |Feature|Type|Dataset|Description|
